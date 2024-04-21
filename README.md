@@ -17,3 +17,6 @@ Step 8: Proceed with implementing the Add Task Screen, where users can input new
 Step 10: Test your app to ensure that it functions as expected. You can do this by running your app on an emulator, simulator, or physical device, depending on your development setup.
 
 Step 11: Implement the logic for managing tasks within your app. This includes functionalities like adding new tasks, deleting existing tasks, and possibly updating task details. Ensure that these functionalities are properly implemented and tested for reliability and usability.
+
+Screenshot:
+![The output of the to do list app ](Ganesh.png)
